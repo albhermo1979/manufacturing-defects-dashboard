@@ -49,9 +49,9 @@ manufacturing-defects-dashboard/
 │   └── Manufacturing_Defects.pbix        ← Power BI dashboard file
 │
 ├── Screenshots/
-│   ├── Executive Overview.png
-│   ├── Defect Analysis.png
-│   └── Cost Impact.png
+│   ├── Executive_Overview.png
+│   ├── Defect_Analysis.png
+│   └── Cost_Impact.png
 │
 └── README.md
 ```
@@ -63,7 +63,7 @@ manufacturing-defects-dashboard/
 ### Page 1 — Executive Overview
 *For: Management / Quality Director*
 
-![Executive Overview](Screenshots/Executive Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 Key visuals: 4 KPI cards · Monthly defect trend by severity · Repair cost by type & severity · Defects by severity and type distribution
 
@@ -72,7 +72,7 @@ Key visuals: 4 KPI cards · Monthly defect trend by severity · Repair cost by t
 ### Page 2 — Defect Analysis
 *For: Quality Engineers / QA Team*
 
-![Defect Analysis](Screenshots/Defect Analysis.png)
+![Defect Analysis](Screenshots/Defect_Analysis.png)
 
 Key visuals: Interactive slicers (Severity / Type / Quarter) · Defect Type vs Severity heatmap matrix · Top 10 products by defect count · Defects by location per month · Inspection method effectiveness
 
@@ -81,7 +81,7 @@ Key visuals: Interactive slicers (Severity / Type / Quarter) · Defect Type vs S
 ### Page 3 — Cost Impact
 *For: Finance / Operations*
 
-![Cost Impact](Screenshots/Cost Impact.png)
+![Cost Impact](Screenshots/Cost_Impact.png)
 
 Key visuals: Critical cost KPI · Repair cost by defect type · Defects by cost range · Average cost trend per month · Top 15 most expensive defects table
 
