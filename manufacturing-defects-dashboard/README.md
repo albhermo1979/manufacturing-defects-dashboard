@@ -17,7 +17,7 @@ It does not answer the questions that actually drive decisions:
 - Which products consistently concentrate the most defects?
 - Does the inspection method affect the severity of defects detected?
 
-This project transforms a raw defect dataset into a ***3-page interactive Power BI dashboard** that answers all of these questions and enables drill-down filtering by severity, type, and time period.
+This project transforms a raw defect dataset into a **3-page interactive Power BI dashboard** that answers all of these questions and enables drill-down filtering by severity, type, and time period.
 
 ---
 
