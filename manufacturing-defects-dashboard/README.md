@@ -63,7 +63,7 @@ manufacturing-defects-dashboard/
 ### Page 1 — Executive Overview
 *For: Management / Quality Director*
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](manufacturing-defects-dashboard/Screenshots/Executive_Overview.png)
 
 Key visuals: 4 KPI cards · Monthly defect trend by severity · Repair cost by type & severity · Defects by severity and type distribution
 
